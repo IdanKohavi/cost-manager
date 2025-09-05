@@ -26,5 +26,3 @@ Open `public/idb.test.html` directly in Chrome. It loads `../idb.js` and prints 
 ## Notes
 - The Pie chart currently sums raw category values from the report items as entered. You can extend `getReport` to convert each item to the selected currency before grouping, if desired.
 - The Bar chart uses the total from `getReport(year, m, currency)` for each month.
-
-dfasdgfdsagsagfs
